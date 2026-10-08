@@ -11,7 +11,7 @@ class Node{
 
 		Node(T data, Node <T>* next = nullptr) {
 			this->data = data;
-			this->data = next;
+			this->next = next;
 		
 		}
 
